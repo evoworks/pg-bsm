@@ -1,0 +1,1 @@
+(((C.Sorg:1, (F.Tom:1, C.Arab:1):1):1, (Oat3:1, (A.Rice:1, (A.Zea:1, A.Sorg:1):1):1):1):1, ((A1.Pea1:1, A.Soy:1):1, ((A.Pars:1, (A.Tob:1, (A.Tom:1, A.Pot:1):1):1):1, (A.Zuc:1, A.Arab:1):1):1):1);

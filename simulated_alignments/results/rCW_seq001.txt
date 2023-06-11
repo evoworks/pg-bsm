@@ -1,0 +1,8 @@
+GCA(A)  harpsichord(1)
+CTC(L)  piano forte(1)
+ATA(M)  acoustic guitar(2)
+ATA(M)  electric guitar(1)
+ATA(M)  trumpet(3)
+ATA(M)  trombone(3)
+CTC(L)  cornet(1)
+CTA(L)  tuba(1)

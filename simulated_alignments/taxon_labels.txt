@@ -1,0 +1,8 @@
+harpsichord
+piano forte
+acoustic guitar
+electric guitar
+trumpet
+trombone
+cornet
+tuba
